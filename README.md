@@ -1,4 +1,4 @@
-# Analytics-Capstone "Heart Disease Prediction Project"
+# Analytics-Capstone "Heart Disease Prediction" Project
 ## Project Goal
 Heart failure is a critical health issue affecting millions worldwide. Early detection can save lives by enabling timely treatment, but it is challenging because many factors, like blood pressure, cholesterol, and heart rate, play a role.
 The purpose of this project is to build a machine learning model that predicts the risk of heart failure based on patient data. By analyzing key health factors such as age, blood pressure, cholesterol levels, and more, this project aims to assist healthcare professionals in identifying high-risk patients early. Early detection can lead to better treatments and potentially save lives.
